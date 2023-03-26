@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+}
+.container {
+  flex-basis: 20%;
+  padding: 10px;
+}
+.root {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  border-radius: 5px;
+  padding: 5px;
+}

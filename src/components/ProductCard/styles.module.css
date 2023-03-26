@@ -1,0 +1,18 @@
+.root {
+  height: 500px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container {
+  text-align: center;
+  width: 100%;
+  max-width: content;
+}
+.cardImg {
+  max-width: 80%;
+  max-height: 250px;
+}

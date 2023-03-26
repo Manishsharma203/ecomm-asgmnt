@@ -1,0 +1,47 @@
+.root {
+  display: flex;
+  gap: 1vw;
+  padding: 0.5vw;
+}
+.btnContainer {
+  margin-top: 5vw;
+}
+.ctaButtons {
+  width: 100%;
+  display: block;
+  margin: 10px 0;
+}
+.img {
+  width: 100%;
+  height: auto;
+}
+.container {
+  flex-basis: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.box {
+  border-bottom: 1px solid grey;
+  padding: 20px 0px;
+}
+.tag {
+  width: max-content;
+  background: lightgrey;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+.priceBox {
+  flex-basis: 20%;
+  border: 1px solid grey;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.btnContainer {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+}

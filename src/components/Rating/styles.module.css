@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.star {
+  border: 1ps solid black;
+  border-radius: 4px;
+  color: white;
+  width: max-content;
+  padding: 2px 5px;
+  align-items: center;
+  background: orangered;
+}

@@ -1,0 +1,12 @@
+.container {
+  margin: auto;
+  display: flex;
+  width: 98vw;
+  height: 20vw;
+  overflow: hidden;
+}
+.img {
+  flex-basis: 100vw;
+  height: auto;
+  object-fit: cover;
+}
